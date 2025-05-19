@@ -7,7 +7,7 @@ A real-time collaborative text editor is a software application that allows mult
 
 ## Screenshots
 
-![App Screenshot](https://www.bing.com/images/blob?bcid=S4iAd4-ow3IIqQahF-GI81gkyBOi.....-E)
+![App Screenshot]()
 
 
 ## 🛠 Skills
