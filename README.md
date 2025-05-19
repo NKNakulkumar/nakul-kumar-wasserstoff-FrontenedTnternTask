@@ -7,7 +7,7 @@ A real-time collaborative text editor is a software application that allows mult
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://realtime-texteditor.netlify.app/)
 
 
 ## 🛠 Skills
