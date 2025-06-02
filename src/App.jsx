@@ -27,7 +27,7 @@ function App() {
       const html = editor.getHTML();
       const text = editor.getText();
       setValue(html);
-
+      // 
       const lines = text.split('\n').filter((line, idx, arr) => idx < arr.length - 1 || line.trim() !== '');
       const { from, to } = editor.state.selection;
       const startLine = text.substring(0, from).split('\n').length - 1;
