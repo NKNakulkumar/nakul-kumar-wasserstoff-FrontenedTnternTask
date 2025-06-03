@@ -4,7 +4,6 @@
 A real-time collaborative text editor is a software application that allows multiple users to  view and edit the same text document, with changes made by one user  reflected on the screens of all other collaborators.
 
 
-
 ## Screenshots
 
 ![App Screenshot](https://www.computan.com/hubfs/laravel-blog.png#keepProtocol)
