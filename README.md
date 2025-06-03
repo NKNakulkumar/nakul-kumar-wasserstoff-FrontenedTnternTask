@@ -1,5 +1,5 @@
 
-# Real-Time colloborative texteditor
+# Real-Time colloborative texteditor 
 
 A real-time collaborative text editor is a software application that allows multiple users to  view and edit the same text document, with changes made by one user  reflected on the screens of all other collaborators.
 
